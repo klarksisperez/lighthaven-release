@@ -1,70 +1,40 @@
-# Getting Started with Create React App
+(RECOMMENDED: Read this in a "word-wrap" format if reading in notepad)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Good day po ma'am!
+This is my part po as the Front-end developer of Group 6- KCFC
+------------------------------------------------------------------------------------------------------
+Directory:
 
-## Available Scripts
+node_modules - dito po nakastore lahat ng ginamit kong nodes for front end
 
-In the project directory, you can run:
+public -
+	src- dito po ako kumukuha nung pictures for our things needed na i-seed galing back-end.
 
-### `npm start`
+	index.html- the main face of the website, ang nagpapatakbo po sa react-based site namin
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+src - 
+  actions - a part of redux, dito napupunta yung dapat idispatch na state ng isang web component.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+	components - dito nakalagay yung mga specific elements na conditionally magpo-pop up depende sa binatong state ni store.
 
-### `npm test`
+	constants - a part of redux, dito kinukuha yung name ng states na ididispatch ng store.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+	images - dito po kumukuha nung pictures for the face of the website naman po.
 
-### `npm run build`
+	reducers - a part of redux, siya po yung nagrereduce nung actions into a particular state, which is pinapasa naman niya kay store.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+	screens - dito po nakalatag lahat ng webpage na ididisplay sa loob ng website.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+	App.js - ito po yung initial render ni react, dito po nakalagay yung routes/header/footer/etc.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+	data.js - nakalagay lang po ito for static testing po dati nung pag insert ng data nung product/s.
 
-### `npm run eject`
+	index.css - dito po nakalagay lahat nung design features na ginawa for the site.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+	index.js - initializer ng react, siya yung parang unang point sa pagbubukas ng react website.
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+	store.js - a part of redux, siya yung nagdedetermine at naghahandle nung status or states na kinabibilangan ng isang action sa isang component.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+------------------------------------------------------------------------------------------------------
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Thank you po, and Enjoy Lighthaven! :D
