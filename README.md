@@ -1,19 +1,33 @@
 (RECOMMENDED: Read this in a "word-wrap" format if reading in notepad)
 
 Good day po!
-This is my part po as the Front-end developer of Group 6- KCFC
+This is Lighthaven, a free mini eLibrary web application developed by the Phantom Group | BSIT - NS - 3A.
 ------------------------------------------------------------------------------------------------------
+Members:
+
+	Pagayunan, Rowell Renz	- Project Manager
+
+	Ranada, Mark Stephen	- Quality Assurance
+
+	Mendoza, Daren		- Back-end Developer
+
+	Sisperez, Klark Jasper	- Front-end Developer
+
+	Tolentino, Jan Calvin	- Database Manager
+
 Directory:
 
 node_modules - dito po nakastore lahat ng ginamit kong nodes for front end
 
 public -
-	src- dito po ako kumukuha nung pictures for our things needed na i-seed galing back-end.
+		
+		src- dito po ako kumukuha nung pictures for our things needed na i-seed galing back-end.
 
-	index.html- the main face of the website, ang nagpapatakbo po sa react-based site namin
+		index.html- the main face of the website, ang nagpapatakbo po sa react-based site namin
 
 src - 
-  actions - a part of redux, dito napupunta yung dapat idispatch na state ng isang web component.
+  	
+	actions - a part of redux, dito napupunta yung dapat idispatch na state ng isang web component.
 
 	components - dito nakalagay yung mga specific elements na conditionally magpo-pop up depende sa binatong state ni store.
 
