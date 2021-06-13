@@ -10,7 +10,7 @@ node_modules - dito po nakastore lahat ng ginamit kong nodes for front end
 public -
 	src- dito po ako kumukuha nung pictures for our things needed na i-seed galing back-end.
 
-	index.html- the main face of the website, ang nagpapatakbo po sa react-based site namin
+	index.html- the main face of the website, ang nagpapatakbo po sa react-based site namin.
 
 src - 
 	actions - a part of redux, dito napupunta yung dapat idispatch na state ng isang web component.
