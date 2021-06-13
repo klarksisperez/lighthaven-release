@@ -1,6 +1,6 @@
 (RECOMMENDED: Read this in a "word-wrap" format if reading in notepad)
 
-Good day po ma'am!
+Good day po!
 This is my part po as the Front-end developer of Group 6- KCFC
 ------------------------------------------------------------------------------------------------------
 Directory:
