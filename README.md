@@ -1,1 +1,1 @@
-# lighthaven-relase
+# lighthaven-release
